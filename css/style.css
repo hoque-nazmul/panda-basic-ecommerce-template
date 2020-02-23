@@ -47,3 +47,8 @@
     width: 100px;
 }
 
+.card{
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 5px;
+}
+
