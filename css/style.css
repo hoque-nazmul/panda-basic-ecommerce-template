@@ -57,3 +57,21 @@
     background: #fff;
 }
 
+.wrapper-content{
+    height: 300px;
+    background: #FCEAE8;
+}
+
+.wrapper-content input {
+    display: block;
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 20px;
+}
+
+.wrapper-content p{
+    font-weight: 500;
+    color: #808080;
+}
